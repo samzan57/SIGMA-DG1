@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+matplotlib
+arch
+xgboost
+scikit-learn
+reportlab
+python-dotenv
+pytest

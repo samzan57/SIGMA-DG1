@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtualenv
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Données intermédiaires régénérées par le pipeline (voir outputs/ pour les résultats livrés)
+data/processed/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
